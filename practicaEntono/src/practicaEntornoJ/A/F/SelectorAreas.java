@@ -4,7 +4,7 @@ public class SelectorAreas {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+// no hace fata poner el todo
 		// selector
 		System.out.println("Que area quieres calcular ");
 		System.out.println("Area del tringulo ---------------> Tecla 1");
